@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/pycatia-docs/',
   title: 'pycatia',
   description: 'Python interface for CATIA V5 COM automation',
   lang: 'en-US',
